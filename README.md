@@ -2,8 +2,6 @@
 
 A threejs / WebGL / MediaPipe-powered interactive demo that allows you to control create and move 3D shapes using hand gestures in real-time.
 
-<img src="demo.png">
-
 ## Demo
 
 Try the live demo: [https://collidingscopes.github.io/shape-creator-tutorial/](https://collidingscopes.github.io/shape-creator-tutorial/)
